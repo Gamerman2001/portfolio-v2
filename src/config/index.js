@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Troy Gooden | Software Engineer',
   siteDescription:
-    'Troy Gooden is a software developer from NY who has an extensive history witch technology. He has worked from building computers physically, to constructing live networks, and even to building software. With a focus on Front-End he looks to bring amazing code and design to the web ',
+    'Troy Gooden is a software developer from NY who has an extensive history witch technology. He has worked from building computers physically, to constructing live networks, and even to building software. With a focus on Front-End he looks to bring amazing code and design to the web',
   siteKeywords:
     'Troy Gooden, software engineer, front-end engineer, web developer, javascript',
   siteUrl: 'https://troygood.dev',
