@@ -5,6 +5,8 @@
   "version": "0.1.0",
   "author": "Troy Gooden",
   "dependencies": {
+    "animejs": "^3.1.0",
+    "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.19.7",
     "gatsby-image": "^2.2.39",
     "gatsby-plugin-manifest": "^2.2.39",
@@ -14,9 +16,15 @@
     "gatsby-source-filesystem": "^2.1.46",
     "gatsby-transformer-sharp": "^2.3.13",
     "prop-types": "^15.7.2",
+    "react-transition-group": "^4.3.0",
+    "scrollreveal": "^4.0.5",
+    "smooth-scroll": "^16.1.0",
+    "styled-components": "^4.4.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "prismjs": "^1.17.1",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
