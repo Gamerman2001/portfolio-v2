@@ -4,7 +4,7 @@ title: 'Affirm Action'
 github: 'https://github.com/Gamerman2001/Affirm-Action-Frontend'
 external: ''
 tech:
-  - RoR
+  - Ruby on Rails
   - React
   - Redux
   - Twilio
