@@ -282,7 +282,7 @@ class Nav extends Component {
                       <StyledListItem
                         key={i}
                         style={{ transitionDelay: `${isHome ? i * 100 : 0}ms` }}>
-                        <StyledListLink to={url}>{name}</StyledListLink>
+                        <StyledListLink to={url}>{name} </StyledListLink>
                       </StyledListItem>
                     </CSSTransition>
                   ))}

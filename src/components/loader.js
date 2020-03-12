@@ -89,7 +89,9 @@ const Loader = ({ finishLoading }) => {
       <StyledLogo isMounted={isMounted}>
         <IconLoader />
       </StyledLogo>
+      {/* I AM A Web Developer */}
     </StyledContainer>
+    // <div>testing code</div>
   );
 };
 

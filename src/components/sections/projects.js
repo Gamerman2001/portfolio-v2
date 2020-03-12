@@ -144,10 +144,10 @@ const Projects = ({ data }) => {
   const projectsToShow = showMore ? projects : firstSix;
 
   return (
-    <StyledContainer>
-      <StyledTitle ref={revealTitle}>Other Noteworthy Projects</StyledTitle>
+    <StyledContainer id="projects">
+      <StyledTitle ref={revealTitle}>Some of my projects</StyledTitle>
       <StyledArchiveLink to="/archive" ref={revealArchiveLink}>
-        view the archive
+        Archive of projects
       </StyledArchiveLink>
 
       <StyledGrid>
@@ -196,13 +196,13 @@ const Projects = ({ data }) => {
                             )}
                           </StyledProjectLinks>
                         </StyledProjectHeader>
-                        <StyledProjectName>{title}</StyledProjectName>
+                        <StyledProjectName>{title} </StyledProjectName>
                         <StyledProjectDescription dangerouslySetInnerHTML={{ __html: html }} />
                       </header>
                       <footer>
                         <StyledTechList>
                           {tech.map((tech, i) => (
-                            <li key={i}>{tech}</li>
+                            <li key={i}>{tech} </li>
                           ))}
                         </StyledTechList>
                       </footer>
@@ -214,9 +214,9 @@ const Projects = ({ data }) => {
         </TransitionGroup>
       </StyledGrid>
 
-      <StyledMoreButton onClick={() => setShowMore(!showMore)}>
+      {/* <StyledMoreButton onClick={() => setShowMore(!showMore)}>
         Show {showMore ? 'Less' : 'More'}
-      </StyledMoreButton>
+      </StyledMoreButton> */}
     </StyledContainer>
   );
 };

@@ -4,7 +4,7 @@ title: 'Fiber Optic & Plant Engineer'
 company: 'Verizon'
 location: 'Staten Island, New York'
 range: 'May 2018 - April 2019'
-url: 'https://www.apple.com/music/'
+url: 'https://Verizon.com'
 ---
 
 - Conducted optical network testing, router installation, networking
