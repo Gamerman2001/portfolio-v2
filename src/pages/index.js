@@ -10,6 +10,7 @@ function initializeReactGA() {
   ReactGA.initialize('UA-123791717-1');
   ReactGA.pageview('/homepage');
 }
+initializeReactGA()
 const StyledMainContainer = styled(Main)`
   counter-reset: section;
 `;
