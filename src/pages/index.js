@@ -4,7 +4,12 @@ import PropTypes from 'prop-types';
 import { Layout, Hero, About, Jobs, Featured, Projects, Contact } from '@components';
 import styled from 'styled-components';
 import { Main } from '@styles';
+import ReactGA from 'react-ga';
 
+function initializeReactGA() {
+  ReactGA.initialize('UA-123791717-1');
+  ReactGA.pageview('/homepage');
+}
 const StyledMainContainer = styled(Main)`
   counter-reset: section;
 `;
