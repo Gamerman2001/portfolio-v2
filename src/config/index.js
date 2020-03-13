@@ -6,7 +6,7 @@ module.exports = {
     'Troy Gooden, software engineer, front-end engineer, web developer, javascript',
   siteUrl: 'https://troygood.dev',
   siteLanguage: 'en_US',
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'UA-160608777-1',
   googleVerification: '',
   name: 'Troy Gooden',
   location: 'New York | D.C.',
