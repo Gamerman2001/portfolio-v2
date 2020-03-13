@@ -4,6 +4,7 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
+Shoutout to Brittany Chiang for her template, I will be modding it. Please check out her stuff at https://brittanychiang.com/
 <h1 align="center">
   Gatsby's default starter
 </h1>
