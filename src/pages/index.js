@@ -7,7 +7,7 @@ import { Main } from '@styles';
 import ReactGA from 'react-ga';
 
 function initializeReactGA() {
-  ReactGA.initialize('UA-123791717-1');
+  ReactGA.initialize('UA-160608777-1');
   ReactGA.pageview('/homepage');
 }
 initializeReactGA()
