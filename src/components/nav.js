@@ -248,7 +248,7 @@ class Nav extends Component {
                 <StyledLogo tabindex="-1">
                   {isHome ? (
                     <a href="/" aria-label="home">
-                      <IconLogo />
+                      {/* <IconLogo /> */}
                     </a>
                   ) : (
                     <Link to="/" aria-label="home">

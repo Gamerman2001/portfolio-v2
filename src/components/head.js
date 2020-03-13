@@ -53,7 +53,7 @@ const Head = ({ metadata }) => (
     <meta name="twitter:image" content={`${config.siteUrl}${ogImage}`} />
     <meta name="twitter:image:alt" content={metadata.title} />
 
-    <link rel="apple-touch-icon" sizes="57x57" href={appleIcon57x57} />
+    {/* <link rel="apple-touch-icon" sizes="57x57" href={appleIcon57x57} />
     <link rel="apple-touch-icon" sizes="60x60" href={appleIcon60x60} />
     <link rel="apple-touch-icon" sizes="72x72" href={appleIcon72x72} />
     <link rel="apple-touch-icon" sizes="76x76" href={appleIcon76x76} />
@@ -65,7 +65,8 @@ const Head = ({ metadata }) => (
     <link rel="icon" type="image/png" sizes="192x192" href={androidIcon192x192} />
     <link rel="icon" type="image/png" sizes="32x32" href={favicon32x32} />
     <link rel="icon" type="image/png" sizes="96x96" href={favicon96x96} />
-    <link rel="icon" type="image/png" sizes="16x16" href={favicon16x16} />
+    <link rel="icon" type="image/png" sizes="16x16" href={favicon16x16} /> */}
+
     <meta name="msapplication-TileColor" content={config.navyColor} />
     <meta name="msapplication-TileImage" content={msIcon144x144} />
     <meta name="theme-color" content={config.navyColor} />

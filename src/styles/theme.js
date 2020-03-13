@@ -22,7 +22,7 @@ const theme = {
     lightGrey: '#f85a3e',
     lightGreyOld: '#606a86',
     slate: '#F85A3E',
-    lightSlate: '#FF4949',
+    lightSlate: '#f99797j',
     lightSlateOld: '#a8b2d1',
     lightestSlate: '#FF961E',
     lightestSlateOld: '#ccd6f6',
