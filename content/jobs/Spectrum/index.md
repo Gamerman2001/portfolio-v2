@@ -10,4 +10,4 @@ url: 'https://www.spectrum.com'
 - Efficiently calibrated, monitored, programmed and troubleshot devices
 - Completed logs and work orders to beat company time frame deadlines, maintaining a 5% repeat/error rate
 - Led & trained 40+ new hires for small team projects
-- Delivered prompt, accurate and excellent customer service
+- Delivered prompt, accurate and excellent client work

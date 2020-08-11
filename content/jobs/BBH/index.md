@@ -7,7 +7,9 @@ range: 'Sep 2017 - May 2018'
 url: 'https://www.bbhsolutions.com/'
 ---
 
-- Conducted optical network testing, router installation, networking
-- Continually integrated and redesigned network Plant enabling internet service for customers
-- Created or updated technical documentation for network installations
-- Effectively worked in teams to implement work orders 
+                                   
+- Installed fiber optic networks for private associations
+- Built IT closets with backboards, cross connects, racks, patch panels, and fiber optics. After any install  testing, adjusting and solving problems with any connections.
+- Respond to customer service requests during projects for upgrades or project pivots
+
+
