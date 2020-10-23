@@ -4,10 +4,7 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
-Shoutout to Brittany Chiang for her template, I will be modding it. Please check out her stuff at https://brittanychiang.com/
-<h1 align="center">
-  Gatsby's default starter
-</h1>
+
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
@@ -96,5 +93,10 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
+
+Shoutout to Brittany Chiang for her template, I will be modding it. Please check out her stuff at https://brittanychiang.com/
+<h1 align="center">
+  Gatsby's default starter
+</h1>
 
 <!-- AUTO-GENERATED-CONTENT:END -->
